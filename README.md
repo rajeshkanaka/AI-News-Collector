@@ -37,6 +37,11 @@ pip install -r requirements.txt
 TWITTER_BEARER_TOKEN=your_twitter_bearer_token
 ```
 
+get token
+https://developer.twitter.com/en/portal/dashboard
+
+![alt text](<CleanShot 2024-12-14 at 16.41.59@2x.png>)
+
 ## Usage
 
 Run the main script:
